@@ -1,4 +1,8 @@
 # Aura
+#set-up the raspberry pi and configure it for the project 
+# Demonstrate basic understading of pythoon coding 
+# demonstrate basic understading of raspberry PI 1/0
+# dmonstarate basic understanding of pygame 
  Milestone C - Software Design and Integration
  
  Lesson 0:
